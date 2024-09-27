@@ -1,4 +1,5 @@
 👋 Hi, I’m @Saikiran-Erukonda
+- [My certifications](https://github.com/Saikiran-Erukonda/My-certifications)
 - 👀 I’m interested in Data analytics,python automation,ECE projects
 - 🌱 I’m currently learning data analytics,data science using python.
 - Familiar with Arduino IDE,Arduino UNO,Assembly language programming,C,SQL,Python,SQL,Mysql,Power BI,PostgreSQL Data Science libraries.
