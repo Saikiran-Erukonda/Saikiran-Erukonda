@@ -12,7 +12,7 @@
 5. 
 6.
 
-# 🚀Well-versed in
+## 🚀Well-versed in
 ### Tech Stack
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-gold?style=for-the-badge)
@@ -21,7 +21,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Google_Colab](https://img.shields.io/badge/Google_Colab-gold?style=for-the-badge&logo=googlecolab)
 
  ![Advanced Excel](https://img.shields.io/badge/MS_Excel-forestgreen?style=for-the-badge) ![MS Word](https://img.shields.io/badge/MS_Word-cornflowerblue?style=for-the-badge) ![Power_point](https://img.shields.io/badge/MS_PowerPoint-orangered?style=for-the-badge)
- 
+ ![arduinouno](https://img.shields.io/badge/Arduino_UNO-lightseagreen?style=for-the-badge&logo=arduino)
  ![Github](https://img.shields.io/badge/GitHub-dimgrey?style=for-the-badge&logo=github)
 
 ### Machine Learning and DataScience libraries
@@ -32,21 +32,33 @@
 ![sklearn](https://img.shields.io/badge/Scikit--learn-slategray?style=for-the-badge&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/Keras-teal?style=for-the-badge&logo=keras)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-indigo?style=for-the-badge&logo=tensorflow)
+![plotly](https://img.shields.io/badge/Plotly-cadetblue?style=for-the-badge&logo=plotly)
+
+### Visualization libraries
+![matplotlib](https://img.shields.io/badge/matplotlib-wheat?style=for-the-badge&logo=matplotlib)
+![seaborn](https://img.shields.io/badge/seaborn-powderblue?style=for-the-badge&logo=seaborn)
+![folium](https://img.shields.io/badge/folium-teal?style=for-the-badge&logo=folium)
+
++ Web-based Dashboarding
 ![Dash](https://img.shields.io/badge/Dash-maroon?style=for-the-badge&logo=Dash)
 ![streamlit](https://img.shields.io/badge/Streamlit-wheat?style=for-the-badge&logo=streamlit)
 
-
-## 🌏 socials
+## 🌏 Socials
 ---------------------
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erukonda-saikiran-4379911a3/)
-- 🌱 I’m currently learning data analytics,data science using python.
-- Familiar with Arduino IDE,Arduino UNO,Assembly language programming,C,SQL,Python,SQL,Mysql,Power BI,PostgreSQL Data Science libraries.
-- I will share my projects through the Github, kindly stay tuned..
-- My youtube channel https://www.youtube.com/@twinkling_deals
-  I wanna make An Advanced Excel playlist available for all, my tutoring is different it involves topics not only related to Excel but, also you will see purpose oriented, Project based learning.
-- [My Linkedin profile](https://www.linkedin.com/in/erukonda-saikiran-4379911a3/)
 
-**Explore My project repositories**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erukonda-saikiran-4379911a3/)
+[![Github](https://img.shields.io/badge/GitHub-dimgrey?style=for-the-badge&logo=github)](https://github.com/Saikiran-Erukonda)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/saikiran.__28?igsh=MW5mdGpld3BuZ2hwNw%3D%3D)
+[![Youtube](https://img.shields.io/badge/YouTube-crimson?style=for-the-badge&logo=youtube)](https://www.youtube.com/@twinkling_deals)
+
+-------
+
+## Tools for Workflow
+![Google_Colab](https://img.shields.io/badge/Google_Colab-gold?style=for-the-badge&logo=googlecolab)
+![PowerBI](https://img.shields.io/badge/Power%20BI-gold?style=for-the-badge)
+![Dash](https://img.shields.io/badge/Dash-maroon?style=for-the-badge&logo=Dash)
+![streamlit](https://img.shields.io/badge/Streamlit-wheat?style=for-the-badge&logo=streamlit)
+
 
 <!---
 Saikiran-Erukonda/Saikiran-Erukonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
