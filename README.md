@@ -7,18 +7,21 @@
 ## 📚 Projects
 
 - **Datascience**
-1. [![Crop Recommendation System](https://img.shields.io/badge/🌱Crop_Recommendation_System-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Smart_Crop_recommendation)
-2. [![SpaceX Rocket Winning strategy Analysis](https://img.shields.io/badge/SpaceX_Rocket_Winning_strategy_Analysis-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Applied-DataScience-Project)
+  
+  [![Crop Recommendation System](https://img.shields.io/badge/🌱Crop_Recommendation_System-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Smart_Crop_recommendation)
+[![SpaceX Rocket Winning strategy Analysis](https://img.shields.io/badge/SpaceX_Rocket_Winning_strategy_Analysis-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Applied-DataScience-Project)
 - **Power BI**
-3. [![Pizza Sales Analysis Dashboard](https://img.shields.io/badge/Pizza_Sales_Analysis_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Pizza-sales-dashboard-using-Power-BI)
-4. [![Customer Retention Dashboard](https://img.shields.io/badge/Customer_Retention_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Customer-retention-dashboard---power-BI)
+  
+   [![Pizza Sales Analysis Dashboard](https://img.shields.io/badge/Pizza_Sales_Analysis_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Pizza-sales-dashboard-using-Power-BI)
+   [![Customer Retention Dashboard](https://img.shields.io/badge/Customer_Retention_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Customer-retention-dashboard---power-BI)
 - **SQL/Postgre SQL**
-5. [![Library Management system `PostgreSQL - Intermedite level`](https://img.shields.io/badge/📚Library_Management_system-powderblue?style=flat-square)](https://github.com/Saikiran-Erukonda/Library_management_system_sql)
-6. [![Movie Recommendation system `PostgreSQL - beginner level`](https://img.shields.io/badge/🎬Movie_Recommendation_System-powderblue?style=flat-square)](https://github.com/Saikiran-Erukonda/Movie_dataset_sql_beginner_project)
+
+  [![Library Management system `PostgreSQL - Intermedite level`](https://img.shields.io/badge/📚Library_Management_system-powderblue?style=flat-square)](https://github.com/Saikiran-Erukonda/Library_management_system_sql)
+   [![Movie Recommendation system `PostgreSQL - beginner level`](https://img.shields.io/badge/🎬Movie_Recommendation_System-powderblue?style=flat-square)](https://github.com/Saikiran-Erukonda/Movie_dataset_sql_beginner_project)
   
 
 ## 🚀Well-versed in
-### Tech Stack
+### 📲Tech Stack
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-gold?style=for-the-badge)
 
@@ -48,7 +51,7 @@
 ![Dash](https://img.shields.io/badge/Dash-maroon?style=for-the-badge&logo=Dash)
 ![streamlit](https://img.shields.io/badge/Streamlit-wheat?style=for-the-badge&logo=streamlit)
 
-## Tools for Workflow
+## 🛠️ Tools for Workflow
 ![Google_Colab](https://img.shields.io/badge/Google_Colab-bisque?style=for-the-badge&logo=googlecolab)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-gold?style=for-the-badge)
 ![Dash](https://img.shields.io/badge/Dash-maroon?style=for-the-badge&logo=Dash)
