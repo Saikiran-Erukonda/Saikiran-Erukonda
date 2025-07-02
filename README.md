@@ -1,16 +1,21 @@
 # 👋 Hi, I’m @Saikiran-Erukonda 
 
   I'm a passionate **Data Science enthusiast** with a knack for turning raw data into smart solutions. I enjoy solving real-world problems using **machine learning, data visualization, and analytics tools**. I’ve worked on projects like predicting rocket landings, recommending crops for farmers, and building interactive dashboards. I’m confident in **Python, SQL, Power BI, and Excel**, and I love creating dashboards that help others make better decisions. I'm also experienced with **web scraping, model optimization, and building user-friendly dashboards using Dash and Streamlit**. With a strong foundation in analytics and communication, I'm always ready to take on new challenges and learn something new.
-  
+
 -------------
 
-# 📚 Projects
-1. Crop Recommendation system
-2. Pizza Sales Analysis Dashboard 
-3. SpaceX Rocket Winning strategy Analysis
-4. Library Management system using SQL
-5. 
-6.
+## 📚 Projects
+
+- **Datascience**
+- [![Crop Recommendation System](https://img.shields.io/badge/Crop_Recommendation_System-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Smart_Crop_recommendation)
+- [![SpaceX Rocket Winning strategy Analysis](https://img.shields.io/badge/SpaceX_Rocket_Winning_strategy_Analysis-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Applied-DataScience-Project)
+- **Power BI**
+- [![Pizza Sales Analysis Dashboard](https://img.shields.io/badge/Pizza_Sales_Analysis_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Pizza-sales-dashboard-using-Power-BI)
+- [![Customer Retention Dashboard](https://img.shields.io/badge/Customer_Retention_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Customer-retention-dashboard---power-BI)
+- **SQL/Postgre SQL**
+- [![Library Management system `PostgreSQL - Intermedite level`](https://img.shields.io/badge/Library_Management_system-powderblue?style=flat-square)](https://github.com/Saikiran-Erukonda/Library_management_system_sql)
+- [![Movie Recommendation system `PostgreSQL - beginner level`](https://img.shields.io/badge/Movie_Recommendation_System-powderblue?style=flat-square)](https://github.com/Saikiran-Erukonda/Movie_dataset_sql_beginner_project)
+  
 
 ## 🚀Well-versed in
 ### Tech Stack
@@ -59,7 +64,8 @@
 ![Dash](https://img.shields.io/badge/Dash-maroon?style=for-the-badge&logo=Dash)
 ![streamlit](https://img.shields.io/badge/Streamlit-wheat?style=for-the-badge&logo=streamlit)
 
-
+## Awards
+[![Ceritification](https://img.shields.io/badge/My_Ceritifications-steelblue?style=for-the-badge)](https://github.com/Saikiran-Erukonda/My-certifications)
 <!---
 Saikiran-Erukonda/Saikiran-Erukonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
