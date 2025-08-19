@@ -7,7 +7,7 @@
 ## 📚 Projects
 
 - **Datascience**
-  
+  [![PowerStep EMSE](https://img.shields.io/badge/PowerStep_EMSE_Flask_App-blue?style=flat-square)](https://powerstep-emse-flask-app.onrender.com/login)
   [![Crop Recommendation System](https://img.shields.io/badge/🌱Crop_Recommendation_System-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Smart_Crop_recommendation)
 [![SpaceX Rocket Winning strategy Analysis](https://img.shields.io/badge/SpaceX_Rocket_Winning_strategy_Analysis-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Applied-DataScience-Project)
 - **Power BI**
