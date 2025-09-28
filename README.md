@@ -7,9 +7,12 @@
 ## 📚 Projects
 
 - **Datascience**
+  
+  [![Grocery Sales Analysis](https://img.shields.io/badge/Grocery_Sales_Analysis-lightgreen?style=flat-square)](https://github.com/Saikiran-Erukonda/Grocery-sales-analysis-using-SQL-queries-Excel-Folium)
+  [![Pharma Drug Analysis](https://img.shields.io/badge/Pharma_Drug_Analysis-teal?style=flat-square)](https://github.com/Saikiran-Erukonda/Drug-Labels-Side-Effects-Analysis--A-ML-Approach)
   [![PowerStep EMSE](https://img.shields.io/badge/PowerStep_EMSE_Flask_App-blue?style=flat-square)](https://powerstep-emse-flask-app.onrender.com/login)
   [![Crop Recommendation System](https://img.shields.io/badge/🌱Crop_Recommendation_System-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Smart_Crop_recommendation)
-[![SpaceX Rocket Winning strategy Analysis](https://img.shields.io/badge/SpaceX_Rocket_Winning_strategy_Analysis-orange?style=flat-square)](https://github.com/Saikiran-Erukonda/Applied-DataScience-Project)
+[![SpaceX Rocket Winning strategy Analysis](https://img.shields.io/badge/SpaceX_Rocket_Winning_strategy_Analysis-cyan?style=flat-square)](https://github.com/Saikiran-Erukonda/Applied-DataScience-Project)
 - **Power BI**
   
    [![Pizza Sales Analysis Dashboard](https://img.shields.io/badge/Pizza_Sales_Analysis_Dashboard-gold?style=flat-square)](https://github.com/Saikiran-Erukonda/Pizza-sales-dashboard-using-Power-BI)
